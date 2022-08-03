@@ -24,6 +24,10 @@ vec_a %*% vec_b
 ```
 
 making changes
-
+ 
+ 
+ additional changes with git
+ 
+ sweet
 
 
